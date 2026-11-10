@@ -1,6 +1,6 @@
-# SYNTAX LIVE
+# AIE
 
-You can view the slides at <https://wesbos.github.io/Syntax-Live/>
+Syntax Live slides with Scott Tolinski and CJ Reynolds.
 
 YAAAAAA
 
